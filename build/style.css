@@ -9,6 +9,10 @@ h1 {
   flex-direction: column;
 }
 
+body {
+ background-color: #F40009;
+}
+
 .letter-box {
   border: 2px solid gray;
   border-radius: 3px;
